@@ -1,3 +1,6 @@
+<img src="https://i.ibb.co/1bg7RS8/repo-Image-Packs.png" alt="repo-Image-Packs" border="0">
+
+# OpenCanopyIconPacks
 This repository contains icon packs intended for use with the OpenCanopy GUI frontend for [OpenCore](https://github.com/acidanthera/OpenCorePkg).<br>
 The icon packs contain files in Apple .icns file format selected from the range of icons available at the [OpenCanopyIcons](https://github.com/blackosx/OpenCanopyIcons) repository.
 
