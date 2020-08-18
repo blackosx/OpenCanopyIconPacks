@@ -5,17 +5,17 @@ The icon packs contain files in Apple .icns file format selected from the range 
 
 
 ### From OpenCanopyIcons Set1
-_Front lit matte icons with soft shadows_
+Front lit matte icons with soft shadows
 * [BOCIP_1_Dark](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_1_Dark)
 * [BOCIP_1_Grey](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_1_Grey)
 * [BOCIP_1_Light](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_1_Light)
 
 ### From OpenCanopyIcons Set2
-_More subtly lit icons than Set1, with increased level of reflectiveness_
+More subtly lit icons than Set1, with increased level of reflectiveness
 * [BOCIP_2_Dark](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_2_Dark)
 * [BOCIP_2_Light](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_2_Light)
 
-_Extended theme packs with extra icons for further user customisation._<br>
+Extended theme packs with extra icons for further user customisation.<br>
 * [BOCIP_2_Dark_Extended_Apple_1](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_2_Dark_Extended_Apple_1)
 * [BOCIP_2_Dark_Extended_Apple_2](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_2_Dark_Extended_Apple_2)
 * [BOCIP_2_Light_Extended_Apple_1](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_2_Light_Extended_Apple_1)
@@ -24,7 +24,7 @@ _Extended theme packs with extra icons for further user customisation._<br>
 _Note: OpenCanopy will not use many of these extra icons automatically. Instead, the user will have to rename an icon .VolumeIcon.icns and place it at the root of the desired volume. Please consult the [OpenCore documentation](https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf) for further guidance._
 
 ### From OpenCanopyIcons Set3
-_Studio lit icons, brighter than Set2, with higher level of reflectiveness and narrower devices to better match the shapes of the latest Apple device icons_
+Studio lit icons, brighter than Set2, with higher level of reflectiveness and narrower devices to better match the shapes of the latest Apple device icons
 * [BOCIP_3_AppleEsque](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_3_AppleEsque)
 * [BOCIP_3_Aqua](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_3_Aqua)
 * [BOCIP_3_Blue](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_3_Blue)
