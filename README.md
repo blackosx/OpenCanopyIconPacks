@@ -3,7 +3,10 @@
 # OpenCanopyIconPacks
 This repository contains icon packs intended for use with the OpenCanopy GUI frontend for [OpenCore](https://github.com/acidanthera/OpenCorePkg). The packs contain files in Apple .icns file format selected from the range of icons available at the [OpenCanopyIcons](https://github.com/blackosx/OpenCanopyIcons) repository.
 
-## Simple Icon Packs for automatic OpenCanopy use
+Please consult the [OpenCore documentation](https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf) for guidance of how to use these.
+
+## Simple Icon Packs
+_OpenCanopy will automatically detect and use the icons in these packs without any work needed by the user, other than installing them in the correct place to begin with._
 
 ### From OpenCanopyIcons Set1
 Front lit matte icons with soft shadows
@@ -36,6 +39,7 @@ Studio lit icons, brighter than Set2, with higher level of reflectiveness and na
 
 
 ## Extended Icon Packs which require user set up
+OpenCanopy will not use many of these extra icons automatically. Instead, the user will have to rename an extra icon .VolumeIcon.icns and place it at the root of the desired volume. Please consult the [OpenCore documentation](https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf) for further guidance._
 
 ### From OpenCanopyIcons Set2
 Extended theme packs with extra icons for further user customisation.<br>
@@ -43,8 +47,6 @@ Extended theme packs with extra icons for further user customisation.<br>
 * [BOCIP_2_Dark_Extended_Apple_2](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_2_Dark_Extended_Apple_2)
 * [BOCIP_2_Light_Extended_Apple_1](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_2_Light_Extended_Apple_1)
 * [BOCIP_2_Light_Extended_Apple_2](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_2_Light_Extended_Apple_2)
-
-_Note: OpenCanopy will not use many of these extra icons automatically. Instead, the user will have to rename an icon .VolumeIcon.icns and place it at the root of the desired volume. Please consult the [OpenCore documentation](https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf) for further guidance._
 
 
 ## Discussion
