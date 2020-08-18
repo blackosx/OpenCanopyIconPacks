@@ -1,16 +1,14 @@
-# OpenCanopyIconPacks
-This repository contains icon packs intended for use with the OpenCanopy GUI frontend for [OpenCore](https://github.com/acidanthera/OpenCorePkg).
-
+This repository contains icon packs intended for use with the OpenCanopy GUI frontend for [OpenCore](https://github.com/acidanthera/OpenCorePkg).<br>
 The icon packs contain files in Apple .icns file format selected from the range of icons available at the [OpenCanopyIcons](https://github.com/blackosx/OpenCanopyIcons) repository.
 
 
-### From OpenCanopyIcons Set1
+## From OpenCanopyIcons Set1
 Front lit matte icons with soft shadows
 * [BOCIP_1_Dark](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_1_Dark)
 * [BOCIP_1_Grey](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_1_Grey)
 * [BOCIP_1_Light](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_1_Light)
 
-### From OpenCanopyIcons Set2
+## From OpenCanopyIcons Set2
 More subtly lit icons than Set1, with increased level of reflectiveness
 * [BOCIP_2_Dark](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_2_Dark)
 * [BOCIP_2_Light](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_2_Light)
@@ -23,7 +21,7 @@ Extended theme packs with extra icons for further user customisation.<br>
 
 _Note: OpenCanopy will not use many of these extra icons automatically. Instead, the user will have to rename an icon .VolumeIcon.icns and place it at the root of the desired volume. Please consult the [OpenCore documentation](https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf) for further guidance._
 
-### From OpenCanopyIcons Set3
+## From OpenCanopyIcons Set3
 Studio lit icons, brighter than Set2, with higher level of reflectiveness and narrower devices to better match the shapes of the latest Apple device icons
 * [BOCIP_3_AppleEsque](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_3_AppleEsque)
 * [BOCIP_3_Aqua](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_3_Aqua)
