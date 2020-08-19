@@ -6,7 +6,7 @@ This repository contains icon packs intended for use with the OpenCanopy GUI fro
 Please consult the [OpenCore documentation](https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf) for guidance of how to use these.
 
 ## Simple Icon Packs
-_OpenCanopy will automatically detect and use the icons in these packs without any work needed by the user, other than installing them in the correct place to begin with._
+OpenCanopy will automatically detect and use the icons in these packs without any work needed by the user, other than installing them in the correct place to begin with.
 
 ### From OpenCanopyIcons Set1
 Front lit matte icons with soft shadows
