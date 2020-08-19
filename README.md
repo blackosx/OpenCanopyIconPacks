@@ -39,7 +39,9 @@ Studio lit icons, brighter than Set2, with higher level of reflectiveness and na
 
 
 ## Extended Icon Packs which require user set up
-OpenCanopy will not use many of these extra icons automatically. Instead, the user will have to rename an extra icon .VolumeIcon.icns and place it at the root of the desired volume. Please consult the [OpenCore documentation](https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf) for further guidance.
+These icon packs contain the same base icons as the non-extended pack, but also extra OS specific icons which the user can use to further customise their devices.
+
+_Please note though that OpenCanopy will not use the extra icons automatically. Instead, the user will have to choose which icon they want for a specific device, place the file at the root of the desired volume and rename the file to .VolumeIcon.icns. Please consult the [OpenCore documentation](https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf) for further guidance._
 
 ### From OpenCanopyIcons Set2
 Extended theme packs with extra icons for further user customisation.<br>
