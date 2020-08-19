@@ -39,15 +39,16 @@ Studio lit icons, brighter than Set2, with higher level of reflectiveness and na
 
 
 ## Extended Icon Packs which require user set up
-OpenCanopy will not use many of these extra icons automatically. Instead, the user will have to rename an extra icon .VolumeIcon.icns and place it at the root of the desired volume. Please consult the [OpenCore documentation](https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf) for further guidance._
+OpenCanopy will not use many of these extra icons automatically. Instead, the user will have to rename an extra icon .VolumeIcon.icns and place it at the root of the desired volume. Please consult the [OpenCore documentation](https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf) for further guidance.
 
 ### From OpenCanopyIcons Set2
 Extended theme packs with extra icons for further user customisation.<br>
 * [BOCIP_2_Dark_Extended_Apple_1](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_2_Dark_Extended_Apple_1)
 * [BOCIP_2_Dark_Extended_Apple_2](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_2_Dark_Extended_Apple_2)
+* [BOCIP_2_Dark_Extended_Linux_1](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_2_Dark_Extended_Linux_1)
 * [BOCIP_2_Light_Extended_Apple_1](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_2_Light_Extended_Apple_1)
 * [BOCIP_2_Light_Extended_Apple_2](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_2_Light_Extended_Apple_2)
-
+* [BOCIP_2_Light_Extended_Linux_1](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_2_Light_Extended_Linux_1)
 
 ## Discussion
 [InsanelyMac.com](https://www.insanelymac.com/forum/topic/344251-opencanopy-icons/)
