@@ -37,6 +37,9 @@ Studio lit icons, brighter than Set2, with higher level of reflectiveness and na
 * [BOCIP_3_Violet](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_3_Violet)
 * [BOCIP_3_Yellow](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_3_Yellow)
 
+Special editions, where changes have been made to the Set3 studio
+* [BOCIP_3_SE_Silver&Gold](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_3_SE_Silver%26Gold)
+* [BOCIP_3_SE_SilverBlue](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_3_SE_SilverBlue)
 
 ## Extended Icon Packs which require user set up
 These icon packs contain the same base icons as the non-extended pack, but also extra OS specific icons which the user can use to further customise their devices.
