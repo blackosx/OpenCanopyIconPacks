@@ -42,8 +42,14 @@ Special editions, where changes have been made to the Set3 studio
 * [BOCIP_3_SE_SilverBlue](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_3_SE_SilverBlue)
 
 ### From OpenCanopyIcons Set4
-Flat-style icons, viewed from above, lit from a low angle to produce a shadow. All icons are white except for the external and time machine icons.
-* [BOCIP_4_Grey](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_4_Grey)
+Flat-style icons, viewed from above
+* [BOCIP_4_Black_Outlines_Blue_Purple](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_4_Black_Outlines_Blue_Purple)<br>
+* [BOCIP_4_Black_Shadows_Coloured](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_4_Black_Shadows_Coloured)<br>
+* [BOCIP_4_Black_Shadows_White](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_4_Black_Shadows_White)<br>
+* [BOCIP_4_Grey](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_4_Grey)<br>
+* [BOCIP_4_Grey_Alpha](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_4_Grey_Alpha)<br>
+* [BOCIP_4_Grey_Alpha_Without_Glow](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_4_Grey_Alpha_Without_Glow)
+
 
 ## Extended Icon Packs which require user set up
 These icon packs contain the same base icons as the non-extended pack, but also extra OS specific icons which the user can use to further customise their devices.
