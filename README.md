@@ -49,7 +49,8 @@ Flat-style icons, viewed from above
 * [BOCIP_4_Grey](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_4_Grey)<br>
 * [BOCIP_4_Grey_Alpha](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_4_Grey_Alpha)<br>
 * [BOCIP_4_Grey_Alpha_Without_Glow](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_4_Grey_Alpha_Without_Glow)<br>
-* [BOCIP_4_Grey_Ghost_Shadow](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_4_Grey_Ghost_Shadow)
+* [BOCIP_4_Grey_Ghost_Shadow](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_4_Grey_Ghost_Shadow)<br>
+* [BOCIP_4_Coloured_Ghost_Shadow](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_4_Coloured_Ghost_Shadow)
 
 
 ## Extended Icon Packs which require user set up
