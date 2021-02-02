@@ -38,7 +38,7 @@ Studio lit icons, brighter than Set2, with higher level of reflectiveness and na
 * [BOCIP_3_Yellow](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_3_Yellow)
 
 Special editions, where changes have been made to the Set3 studio
-* [BOCIP_3_SE_Silver&Gold](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_3_SE_Silver%26Gold)
+* [BOCIP_3_SE_SilverGold](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_3_SE_SilverGold)
 * [BOCIP_3_SE_SilverBlue](https://github.com/blackosx/OpenCanopyIconPacks/tree/master/BOCIP_3_SE_SilverBlue)
 
 ### From OpenCanopyIcons Set4
