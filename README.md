@@ -5,6 +5,11 @@ This repository contains icon packs intended for use with the OpenCanopy GUI fro
 
 Please consult the [OpenCore documentation](https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf) for guidance of how to use these.
 
+## Notice
+Due to OpenCanopy being experimental and subject to changing requirements and mandatory icons I feel the process of generating these icons packs leads to packs becoming out of date and needing time to update and rebuild. Due to this, I will therefore no longer support these icon packs, at least for the time being, but I'll maybe favour some automated way of generating sets of icons from the main [OpenCanopyIcons](https://github.com/blackosx/OpenCanopyIcons) repository.
+
+For reference, the existing BOCIP_3 icon packs have been updated to include Left and Right icons for OpenCore 0.6.6, but all others are older and NOT up to date for recent versions of OpenCanopy.
+
 ## Simple Icon Packs
 OpenCanopy will automatically detect and use the icons in these packs without any work needed by the user, other than installing them in the correct place to begin with.
 
